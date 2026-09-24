@@ -174,15 +174,3 @@ To add a locale, see the [i18n contribution guide](docs/i18n.md).
 bun run i18n:new es      # Scaffold a Spanish locale.
 bun run i18n:status      # check translation coverage
 ```
-
-## License
-
-The repository uses [Apache 2.0](LICENSE), with the package exceptions listed in [Packages](#packages). Bundled fonts retain their own licenses.
-
-## Commercial support
-
-For commercial support or custom features, [email the support team](mailto:docx-editor@eigenpal.com).
-
-## Roadmap
-
-See the [public roadmap](https://github.com/orgs/eigenpal/projects/2) for planned work and priorities.
